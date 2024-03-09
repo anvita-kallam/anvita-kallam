@@ -5,7 +5,7 @@
 
 - 💜 Past Project: [web-development for The Jane Project](https://www.thejaneproj.com/)
 
-- 🏫 Past Project: **regression based machine learning model for data analysis on the impact of affirmative action**
+- 🏫 Past Project: [fairness evaluation of recidivism predicting models using the COMPAS dataset] (https://43c5-34-48-49-205.ngrok-free.app/)
 
 - 📫 How to reach me **anvita.kallam@calculatorscount.com**
 
