@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anvita</h1>
 <h3 align="center">Currently a student at the Downingtown STEM Academy interested in data science, AI, and civic engagement!</h3>
 
-- 🌎 I’m currently working on **using NLP to perform sentiment analysis on public response to environmental racism**
+- 🌎 I’m currently working on [using NLP to perform sentiment analysis on public response to environmental racism](https://docs.google.com/document/d/1Kamsyh9DlBKOoUAmHLbzTLfN8TQ5hFIL8itp6YiGxSQ/edit?usp=sharing)
 
 - 💜 Past Project: [web-development for The Jane Project](https://www.thejaneproj.com/)
 
