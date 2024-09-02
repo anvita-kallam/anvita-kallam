@@ -5,6 +5,8 @@
 
 - 🗳️ Past Project: [using LASSO, XGboost, CNN, and ARIMA models to predict voter turnout](https://github.com/anvita-kallam/voterturnout_pred)
 
+- 🗳️ Past Project: [web-based chat-app to display PA-TSA Official toolkit](https://github.com/anvita-kallam/parlypro_app)
+
 - 💜 Past Project: [web-development for The Jane Project](https://github.com/anvita-kallam/The-Jane-Project)
 
 - 🏫 Past Project: [fairness evaluation of recidivism predicting models using the COMPAS dataset](https://github.com/anvita-kallam/recidivism)
