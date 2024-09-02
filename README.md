@@ -3,9 +3,11 @@
 
 - 🌎 I’m currently working on [using NLP to perform sentiment analysis on public response to environmental racism](https://docs.google.com/document/d/1Kamsyh9DlBKOoUAmHLbzTLfN8TQ5hFIL8itp6YiGxSQ/edit?usp=sharing)
 
-- 💜 Past Project: [web-development for The Jane Project](https://www.thejaneproj.com/)
+- 🗳️ Past Project: [using LASSO, XGboost, CNN, and ARIMA models to predict voter turnout](https://github.com/anvita-kallam/voterturnout_pred)
 
-- 🏫 Past Project: [fairness evaluation of recidivism predicting models using the COMPAS dataset](https://recidivism-g64txt2w52gfzrqjws9fdf.streamlit.app/)
+- 💜 Past Project: [web-development for The Jane Project](https://github.com/anvita-kallam/The-Jane-Project)
+
+- 🏫 Past Project: [fairness evaluation of recidivism predicting models using the COMPAS dataset](https://github.com/anvita-kallam/recidivism)
 
 - 📫 How to reach me **anvita.kallam@calculatorscount.com**
 
