@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anvita</h1>
 <h3 align="center">Currently a Stamps President's Scholar @ Georgia Tech studying Computer Science!</h3>
 
-- 🌎 I’m currently working on [using NLP to perform sentiment analysis on public response to environmental racism](https://docs.google.com/document/d/1Kamsyh9DlBKOoUAmHLbzTLfN8TQ5hFIL8itp6YiGxSQ/edit?usp=sharing)
+- 🌎 I’m currently working on [a React-based interactive web app that uses GPT-4 and RAG to simulate environmentally impactful decision-making through a narrative prom planning game](https://green-prom-planning.vercel.app/)
 
 - 🗳️ Past Project: [using LASSO, XGboost, CNN, and ARIMA models to predict voter turnout](https://github.com/anvita-kallam/voterturnout_pred)
 
