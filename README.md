@@ -11,7 +11,7 @@
 
 - 🏫 Past Project: [fairness evaluation of recidivism predicting models using the COMPAS dataset](https://github.com/anvita-kallam/recidivism)
 
-- 📫 How to reach me **akallam7@gatech.edu**
+- 📫 How to reach me: **akallam7@gatech.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
