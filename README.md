@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anvita</h1>
+<h1 align="center">Hi 👋, I'm Anvita!</h1>
 <h3 align="center">I'm currently a Stamps President's Scholar studying Computer Science @ Georgia Tech</h3>
 
 - 🌎 I’m currently working on [a React-based interactive web app that uses GPT-4 and RAG to simulate environmentally impactful decision-making through a narrative prom planning game](https://github.com/anvita-kallam/green-prom-planning)
