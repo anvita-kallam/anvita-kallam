@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anvita!</h1>
 <h3 align="center">I'm currently a Stamps President's Scholar studying Computer Science @ Georgia Tech</h3>
 
-- ⚙️ I'm currently working on [a full-stack app that uses GitHub APIs, NLP, and code-base heuristics to quantify candidate–role technical compatibility](https://github.com/anvita-kallam/CommitFit) 
-- 🌎 I’m currently working on [a React-based interactive web app that uses GPT-4 and RAG to simulate environmentally impactful decision-making through a narrative prom planning game](https://github.com/anvita-kallam/green-prom-planning)
+- ⚙️ I'm currently working on [a full-stack app that uses GitHub APIs, NLP, and code-base heuristics to quantify candidate–role technical compatibility](https://github.com/anvita-kallam/CommitFit)
+  
+- 🌎 Past Project: [a React-based interactive web app that uses GPT-4 and RAG to simulate environmentally impactful decision-making through a narrative prom planning game](https://github.com/anvita-kallam/green-prom-planning)
 
 - 🗳️ Past Project: [using LASSO, XGboost, CNN, and ARIMA models to predict voter turnout](https://github.com/anvita-kallam/voterturnout_pred)
-
-- 🧰 Past Project: [web-based chat-app to display PA-TSA Official toolkit](https://github.com/anvita-kallam/parlypro_app)
 
 - 💜 Past Project: [web-development for The Jane Project](https://github.com/anvita-kallam/The-Jane-Project)
 
