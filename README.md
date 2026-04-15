@@ -8,11 +8,11 @@
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/georgia%20tech-cs-0ea5a4?style=for-the-badge&logo=gradle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/focus-ai%20x%20impact-f97316?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/focus-ai%20x%20impact-38bdf8?style=for-the-badge"/>
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STAMPS%20SCHOLAR-Georgia%20Tech-f59e0b?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/STAMPS%20SCHOLAR-Georgia%20Tech-eab308?style=for-the-badge&logoColor=white" />
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
 
 <p>
   <a href="https://github.com/anvita-kallam/CommitFit">
-    <img src="https://img.shields.io/badge/view%20project-0f172a?style=for-the-badge&logo=github&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/view%20project-0ea5a4?style=for-the-badge&logo=github&logoColor=ffffff"/>
   </a>
 </p>
 
