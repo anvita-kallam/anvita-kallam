@@ -1,67 +1,58 @@
-<h1 align="center">Hi 👋, I'm Anvita!</h1>
-<h3 align="center">Stamps President’s Scholar @ Georgia Tech studying Computer Science</h3>
+<h1 align="center">hey, i'm anvita 👋</h1>
+<h3 align="center">cs @ georgia tech • stamps president’s scholar</h3>
 
 <p align="center">
-I build full-stack systems and ML-driven applications that turn messy real-world data into actionable insights.
+  <i>i build systems that turn messy data into decisions.</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anvita-kallam&label=profile+views&color=blueviolet" />
+  <img src="https://img.shields.io/github/followers/anvita-kallam?style=social" />
 </p>
 
 ---
 
-## 💡 What I'm Working On
+## ⚡ currently building
 
-- ⚙️ **CommitFit**  
-  A full-stack platform that leverages GitHub APIs, NLP, and codebase heuristics to quantify candidate–role technical compatibility  
-  → [View Project](https://github.com/anvita-kallam/CommitFit)
+### 🧠 commitfit
+> matching engineers to roles using code, not resumes
 
----
+- github api ingestion + repo graph analysis  
+- nlp + heuristic scoring on real codebases  
+- full-stack system with typed api contracts  
 
-## 📌 Selected Projects
-
-- 🌎 **Green Prom Planning**  
-  Interactive React app using GPT-4 + RAG to simulate environmentally impactful decision-making through narrative gameplay  
-  → [View Project](https://github.com/anvita-kallam/green-prom-planning)
-
-- 🗳️ **Voter Turnout Prediction**  
-  Modeled voter participation using LASSO, XGBoost, CNNs, and ARIMA to capture both spatial and temporal trends  
-  → [View Project](https://github.com/anvita-kallam/voterturnout_pred)
-
-- 💜 **The Jane Project**  
-  Contributed to web development for a nonprofit-focused platform  
-  → [View Project](https://github.com/anvita-kallam/The-Jane-Project)
-
-- ⚖️ **Recidivism Fairness Analysis**  
-  Evaluated bias in COMPAS-based prediction systems using fairness metrics and model comparisons  
-  → [View Project](https://github.com/anvita-kallam/recidivism)
+🔗 https://github.com/anvita-kallam/CommitFit
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 featured work
 
-**Languages & Frameworks**  
-`Python` `TypeScript` `JavaScript` `C++` `SQL`  
-`React` `Node.js` `Tailwind CSS`
+### 🌎 green prom planning
+interactive storytelling + sustainability simulation  
+- gpt-4 + rag pipeline  
+- react-based narrative engine  
+- decision → environmental impact feedback loop  
 
-**Data Science & ML**  
-`Pandas` `Scikit-learn` `PyTorch` `TensorFlow` `Seaborn`
+### 🗳️ voter turnout prediction
+multi-model forecasting across time + demographics  
+- lasso, xgboost, cnn, arima  
+- hybrid spatial + temporal modeling  
 
-**Tools & Design**  
-`Figma` `Photoshop`
+### ⚖️ recidivism fairness
+bias evaluation in high-stakes ml systems  
+- compas dataset analysis  
+- fairness metrics + model comparison  
 
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/anvita-kallam" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/anvita_kallam" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-</p>
+### 💜 the jane project
+- frontend + web development for nonprofit platform  
 
 ---
 
-## 📫 Contact
+## 🧩 tech stack
 
-📧 akallam7@gatech.edu
+```txt
+languages:    python • typescript • javascript • c++ • sql
+frontend:     react • tailwind
+backend:      node • apis
+ml/data:      pytorch • tensorflow • sklearn • pandas
+tools:        figma • photoshop
