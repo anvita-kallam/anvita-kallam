@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=welcome&fontAlign=50&fontAlignY=36&color=gradient&customColorList=0,6,18,25&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=welcome&fontAlign=50&fontAlignY=36&color=0:14b8a6,50:38bdf8,100:eab308&fontColor=ffffff" />
 </p>
 
 <h3 align="center">
@@ -27,7 +27,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=56&text=currently%20building&fontSize=24&fontAlign=50&fontAlignY=65&color=gradient&customColorList=0,6,18,25&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=56&text=currently%20building&fontSize=24&fontAlign=50&fontAlignY=65&color=0:14b8a6,50:38bdf8,100:eab308&fontColor=ffffff" />
 </p>
 
 ### commitfit
@@ -48,7 +48,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=56&text=featured%20work&fontSize=24&fontAlign=50&fontAlignY=65&color=gradient&customColorList=0,6,18,25&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=56&text=featured%20work&fontSize=24&fontAlign=50&fontAlignY=65&color=0:14b8a6,50:38bdf8,100:eab308&fontColor=ffffff" />
 </p>
 
 ### prompact: green prom planning
@@ -82,7 +82,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=56&text=tech%20stack&fontSize=24&fontAlign=50&fontAlignY=65&color=gradient&customColorList=0,6,18,25&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=56&text=tech%20stack&fontSize=24&fontAlign=50&fontAlignY=65&color=0:14b8a6,50:38bdf8,100:eab308&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -98,5 +98,5 @@ tools:        figma • photoshop
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=footer&color=gradient&customColorList=0,6,18,25" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=footer&color=0:14b8a6,50:38bdf8,100:eab308" />
 </p>
