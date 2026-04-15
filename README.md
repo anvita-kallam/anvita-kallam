@@ -8,9 +8,12 @@
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/georgia%20tech-cs-0ea5a4?style=for-the-badge&logo=gradle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/stamps%20scholar-gold-f59e0b?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/focus-ai%20x%20impact-f97316?style=for-the-badge"/>
 </h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STAMPS%20SCHOLAR-Georgia%20Tech-f59e0b?style=for-the-badge&logoColor=white" />
+</p>
 
 <p align="center">
   <i>turning messy data into clear decisions</i>
@@ -19,7 +22,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anvita-kallam&color=14b8a6&style=flat-square"/>
   <img src="https://img.shields.io/github/followers/anvita-kallam?style=flat-square&color=0ea5a4"/>
-  <img src="https://img.shields.io/badge/location-atlanta-f97316?style=flat-square"/>
 </p>
 
 ---
@@ -27,7 +29,7 @@
 ## currently building
 
 ### commitfit
-<img src="https://img.shields.io/badge/status-active-14b8a6?style=flat-square"/> <img src="https://img.shields.io/badge/type-fullstack-0ea5a4?style=flat-square"/> <img src="https://img.shields.io/badge/mode-building%20in%20public-f97316?style=flat-square"/>
+<img src="https://img.shields.io/badge/status-active-14b8a6?style=flat-square"/>
 
 > matching engineers to roles using code, not resumes
 
@@ -46,7 +48,7 @@
 ## featured work
 
 ### prompact: green prom planning
-<img src="https://img.shields.io/badge/ai-gpt4-0ea5a4?style=flat-square"/> <img src="https://img.shields.io/badge/theme-sustainability-22c55e?style=flat-square"/>
+<img src="https://img.shields.io/badge/ai-gpt4-0ea5a4?style=flat-square"/>
 
 > interactive storytelling + sustainability simulation
 
@@ -57,7 +59,7 @@
 ---
 
 ### voter turnout prediction
-<img src="https://img.shields.io/badge/ml-multimodel-38bdf8?style=flat-square"/> <img src="https://img.shields.io/badge/domain-civic%20analytics-f97316?style=flat-square"/>
+<img src="https://img.shields.io/badge/ml-multimodel-38bdf8?style=flat-square"/>
 
 > multi-model forecasting across time + demographics
 
@@ -67,7 +69,7 @@
 ---
 
 ### the jane project
-<img src="https://img.shields.io/badge/impact-nonprofit-14b8a6?style=flat-square"/> <img src="https://img.shields.io/badge/role-frontend%20dev-f59e0b?style=flat-square"/>
+<img src="https://img.shields.io/badge/impact-nonprofit-14b8a6?style=flat-square"/>
 
 > frontend + web development for nonprofit platform
 
