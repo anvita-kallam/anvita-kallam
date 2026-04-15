@@ -1,23 +1,67 @@
 <h1 align="center">Hi 👋, I'm Anvita!</h1>
-<h3 align="center">I'm currently a Stamps President's Scholar studying Computer Science @ Georgia Tech</h3>
+<h3 align="center">Stamps President’s Scholar @ Georgia Tech studying Computer Science</h3>
 
-- ⚙️ I'm currently working on [a full-stack app that uses GitHub APIs, NLP, and code-base heuristics to quantify candidate–role technical compatibility](https://github.com/anvita-kallam/CommitFit)
-  
-- 🌎 Past Project: [a React-based interactive web app that uses GPT-4 and RAG to simulate environmentally impactful decision-making through a narrative prom planning game](https://github.com/anvita-kallam/green-prom-planning)
-
-- 🗳️ Past Project: [using LASSO, XGboost, CNN, and ARIMA models to predict voter turnout](https://github.com/anvita-kallam/voterturnout_pred)
-
-- 💜 Past Project: [web-development for The Jane Project](https://github.com/anvita-kallam/The-Jane-Project)
-
-- 🏫 Past Project: [fairness evaluation of recidivism predicting models using the COMPAS dataset](https://github.com/anvita-kallam/recidivism)
-
-- 📫 How to reach me: **akallam7@gatech.edu**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anvita-kallam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anvita-kallam" height="30" width="40" /></a>
-<a href="https://instagram.com/anvita_kallam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anvita_kallam" height="30" width="40" /></a>
+<p align="center">
+I build full-stack systems and ML-driven applications that turn messy real-world data into actionable insights.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 💡 What I'm Working On
+
+- ⚙️ **CommitFit**  
+  A full-stack platform that leverages GitHub APIs, NLP, and codebase heuristics to quantify candidate–role technical compatibility  
+  → [View Project](https://github.com/anvita-kallam/CommitFit)
+
+---
+
+## 📌 Selected Projects
+
+- 🌎 **Green Prom Planning**  
+  Interactive React app using GPT-4 + RAG to simulate environmentally impactful decision-making through narrative gameplay  
+  → [View Project](https://github.com/anvita-kallam/green-prom-planning)
+
+- 🗳️ **Voter Turnout Prediction**  
+  Modeled voter participation using LASSO, XGBoost, CNNs, and ARIMA to capture both spatial and temporal trends  
+  → [View Project](https://github.com/anvita-kallam/voterturnout_pred)
+
+- 💜 **The Jane Project**  
+  Contributed to web development for a nonprofit-focused platform  
+  → [View Project](https://github.com/anvita-kallam/The-Jane-Project)
+
+- ⚖️ **Recidivism Fairness Analysis**  
+  Evaluated bias in COMPAS-based prediction systems using fairness metrics and model comparisons  
+  → [View Project](https://github.com/anvita-kallam/recidivism)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**  
+`Python` `TypeScript` `JavaScript` `C++` `SQL`  
+`React` `Node.js` `Tailwind CSS`
+
+**Data Science & ML**  
+`Pandas` `Scikit-learn` `PyTorch` `TensorFlow` `Seaborn`
+
+**Tools & Design**  
+`Figma` `Photoshop`
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/anvita-kallam" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://instagram.com/anvita_kallam" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 📫 Contact
+
+📧 akallam7@gatech.edu
