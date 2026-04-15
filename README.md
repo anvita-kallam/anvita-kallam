@@ -5,11 +5,6 @@
   <i>i build systems that turn messy data into decisions.</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anvita-kallam&label=profile+views&color=blueviolet" />
-  <img src="https://img.shields.io/github/followers/anvita-kallam?style=social" />
-</p>
-
 ---
 
 ## ⚡ currently building
@@ -25,9 +20,9 @@
 
 ---
 
-## 🚀 featured work
+## featured work
 
-### 🌎 green prom planning
+### 🌎 prompact: green prom planning
 interactive storytelling + sustainability simulation  
 - gpt-4 + rag pipeline  
 - react-based narrative engine  
@@ -38,17 +33,14 @@ multi-model forecasting across time + demographics
 - lasso, xgboost, cnn, arima  
 - hybrid spatial + temporal modeling  
 
-### ⚖️ recidivism fairness
-bias evaluation in high-stakes ml systems  
-- compas dataset analysis  
-- fairness metrics + model comparison  
 
 ### 💜 the jane project
-- frontend + web development for nonprofit platform  
+frontend + web development for nonprofit platform
+- 3.98k clicks monthly on geospatial cpc tracker  
 
 ---
 
-## 🧩 tech stack
+## tech stack
 
 ```txt
 languages:    python • typescript • javascript • c++ • sql
