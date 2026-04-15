@@ -26,7 +26,9 @@
 
 ---
 
-## currently building
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=56&text=currently%20building&fontSize=24&fontAlign=50&fontAlignY=65&color=gradient&customColorList=0,6,18,25&fontColor=ffffff" />
+</p>
 
 ### commitfit
 <img src="https://img.shields.io/badge/status-active-14b8a6?style=flat-square"/>
@@ -45,7 +47,9 @@
 
 ---
 
-## featured work
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=56&text=featured%20work&fontSize=24&fontAlign=50&fontAlignY=65&color=gradient&customColorList=0,6,18,25&fontColor=ffffff" />
+</p>
 
 ### prompact: green prom planning
 <img src="https://img.shields.io/badge/ai-gpt4-0ea5a4?style=flat-square"/>
@@ -76,7 +80,10 @@
 - 3.98k monthly clicks on geospatial CPC tracker
 
 ---
-## tech stack
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=56&text=tech%20stack&fontSize=24&fontAlign=50&fontAlignY=65&color=gradient&customColorList=0,6,18,25&fontColor=ffffff" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,react,nodejs,tailwind,mysql,pytorch,tensorflow,figma&theme=light" />
