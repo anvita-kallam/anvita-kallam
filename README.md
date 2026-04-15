@@ -23,19 +23,19 @@
 ## featured work
 
 ### 🌎 prompact: green prom planning
-interactive storytelling + sustainability simulation  
+> interactive storytelling + sustainability simulation  
 - gpt-4 + rag pipeline  
 - react-based narrative engine  
 - decision → environmental impact feedback loop  
 
 ### 🗳️ voter turnout prediction
-multi-model forecasting across time + demographics  
+> multi-model forecasting across time + demographics  
 - lasso, xgboost, cnn, arima  
 - hybrid spatial + temporal modeling  
 
 
 ### 💜 the jane project
-frontend + web development for nonprofit platform
+> frontend + web development for nonprofit platform
 - 3.98k clicks monthly on geospatial cpc tracker  
 
 ---
