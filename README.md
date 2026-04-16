@@ -42,39 +42,6 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=56&text=featured%20work&fontSize=24&fontAlign=50&fontAlignY=65&color=0:14b8a6,50:38bdf8,100:eab308&fontColor=ffffff" />
-</p>
-
-### prompact: green prom planning
-<img src="https://img.shields.io/badge/ai-gpt4-0ea5a4?style=flat-square"/>
-
-> interactive storytelling + sustainability simulation
-
-- gpt-4 + rag pipeline
-- react-based narrative engine
-- decision -> environmental impact feedback loop
-
----
-
-### voter turnout prediction
-<img src="https://img.shields.io/badge/ml-multimodel-38bdf8?style=flat-square"/>
-
-> multi-model forecasting across time + demographics
-
-- lasso • xgboost • cnn • arima
-- hybrid spatial + temporal modeling
-
----
-
-### the jane project
-<img src="https://img.shields.io/badge/impact-nonprofit-14b8a6?style=flat-square"/>
-
-> frontend + web development for nonprofit platform
-
-- 3.98k monthly clicks on geospatial CPC tracker
 
 ---
 
