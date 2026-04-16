@@ -15,9 +15,6 @@
   <img src="https://img.shields.io/badge/STAMPS%20SCHOLAR-Georgia%20Tech-eab308?style=for-the-badge&logoColor=white" />
 </p>
 
-<p align="center">
-  <i>turning messy data into clear decisions</i>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anvita-kallam&color=14b8a6&style=flat-square"/>
