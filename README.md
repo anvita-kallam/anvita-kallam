@@ -89,13 +89,6 @@
   <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,react,nodejs,tailwind,mysql,pytorch,tensorflow,figma&theme=light" />
 </p>
 
-```txt
-languages:    python • typescript • javascript • c++ • sql
-frontend:     react • tailwind
-backend:      node • apis
-ml/data:      pytorch • tensorflow • sklearn • pandas
-tools:        figma • photoshop
-```
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=footer&color=0:14b8a6,50:38bdf8,100:eab308" />
