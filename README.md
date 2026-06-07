@@ -16,11 +16,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anvita-kallam&color=14b8a6&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/anvita-kallam?style=flat-square&color=0ea5a4"/>
-</p>
-
 ---
 
 <p align="center">
