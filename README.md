@@ -12,7 +12,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STAMPS%20SCHOLAR-Georgia%20Tech-eab308?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stamps%20Scholar-eab308?style=for-the-badge&logoColor=white" />
 </p>
 
 
